@@ -1,6 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates.
-# Modified by Bowen Cheng from: https://github.com/facebookresearch/detectron2/blob/master/demo/demo.py
-# Adapted for AutoFocusFormer by Ziwen 2023
+
 
 import argparse
 import glob
