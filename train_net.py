@@ -1,9 +1,6 @@
+const weeks = [1, 2, 3, 4, 5, 6, 7]
+const inCommingBookings = API_obj.bookings
 
+for (booing in inCommingBookings) {
 
-
-class Trainer():
-  def __ini__(self, proj, bias, window, qry):
-    self.proj = proj
-    self.bias = bias
-    self.window = window
-    self.qry = qry
+}
