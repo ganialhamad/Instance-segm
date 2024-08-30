@@ -6,3 +6,15 @@ for (const idx, booking in inCommingBookings) {
     console.log("Logged: ", booking.date, booking.time);
   }
 }
+
+
+// interval time & duration
+
+for (let i = 0; i < inCommingBookings.length; i++) {
+  const { id, time, duration } = inComingBookings[i];
+  const time = document.getElementById('time-picked')
+  const duration = document.getElementById('duration-picked')
+
+  const start_booking_time = time;
+  const end_booking_time = 
+}
