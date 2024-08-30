@@ -16,5 +16,7 @@ for (let i = 0; i < inCommingBookings.length; i++) {
   const duration = document.getElementById('duration-picked')
 
   const start_booking_time = time;
-  const end_booking_time = 
+  const end_booking_time = (duration / 60) * 60000;
+
+  if () {}
 }
