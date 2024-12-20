@@ -10,7 +10,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Ignore everything in this directory
+# Ignore coco dataset
 coco/
 
 # C extensions
