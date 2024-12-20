@@ -10,8 +10,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# coco
-
+# Ignore everything in this directory
+coco/
 
 # C extensions
 *.so
